@@ -15,8 +15,6 @@
   <a href="https://github.com/douglasbelarmino/megahack3/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/douglasbelarmino/megahack3">
   </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/douglasbelarmino/megahack3">
 </p>
 
 ## :question: O que é o Mega Hack?
@@ -66,10 +64,6 @@ $ npm install
 # Executar aplicação
 $ npm start
 ```
-
----
-
-Feito por Douglas Belarmino :wave: [Entre em contato!](https://www.linkedin.com/in/douglas-belarmino)
 
 [nodejs]: https://nodejs.org
 [expo]: https://expo.io
