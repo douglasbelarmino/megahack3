@@ -30,12 +30,14 @@ O maior hackathon on-line do Brasil não poderia carregar outro nome, senão: ME
 ## :computer: Projeto
 
 Ambev
+
 Desafio: Como podemos inovar e nos diferenciar criando experiências imersivas e exclusivas que vão além do produto e levem o espírito das marcas, compreendo quem são nossos consumidores, seu comportamento e sua jornada com o objetivo de:
-Direcionamento 1: Atrair novamente os consumidores para os bares
-Direcionamento 2: Tornar-se uma referência na categoria, e nos destacar nos pontos de vendas como supermercados, lojas online e eventos
+
+- Direcionamento 1: atrair novamente os consumidores para os bares.
+- Direcionamento 2: tornar-se uma referência na categoria, e nos destacar nos pontos de vendas como supermercados, lojas online e eventos.
 
 <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/36802445/83980627-b8d67780-a8ed-11ea-8ae8-ec26099cbf32.png" alt="Example" />
+    <img src="https://user-images.githubusercontent.com/36802445/86548043-69e22900-bf11-11ea-8d81-c74c1b06422b.png" alt="Example" />
 </h1>
 
 ## :rocket: Tecnologias
