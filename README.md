@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/36802445/86547313-f212ff00-bf0e-11ea-8865-873de3a6a829.png" alt="AmbevGO" />
+    AmbevGO
 </h1>
 
 <h4 align="center">
